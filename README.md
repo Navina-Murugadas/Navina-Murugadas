@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Data Science, Data Analytics, Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Navina-Murugadas](https://github.com/Navina-Murugadas)
+- 👨‍💻 All of my projects are available at [https://navina77.devfolio.io/](https://navina77.devfolio.io/)
 
 - 📫 How to reach me **murukavikabhinavi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/open?id=1Q--nRdL1d0EYf-cg_IFWnTC18lOMxXr3&usp=drive_fs](https://drive.google.com/open?id=1Q--nRdL1d0EYf-cg_IFWnTC18lOMxXr3&usp=drive_fs)
+- 📄 Know about my experiences [https://drive.google.com/open?id=1QESdQbywRtab0UTbgyJF6fEcOPCfqqnj&usp=drive_fs](https://drive.google.com/open?id=1QESdQbywRtab0UTbgyJF6fEcOPCfqqnj&usp=drive_fs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
