@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Navina.M</h1>
+<h1 align="center">Hi 👋, I'm Navina M</h1>
 <h3 align="center">A passionate Data Science Intern from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navina-murugadas" alt="navina-murugadas" /></a> </p>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **murukavikabhinavi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/open?id=1QESdQbywRtab0UTbgyJF6fEcOPCfqqnj&usp=drive_fs](https://drive.google.com/open?id=1QESdQbywRtab0UTbgyJF6fEcOPCfqqnj&usp=drive_fs)
+- 📄 Know about my experiences [https://drive.google.com/open?id=1UCyXLDS2mn93cDk4XHrnu3dLHIh6H7A2&usp=drive_fs](https://drive.google.com/open?id=1UCyXLDS2mn93cDk4XHrnu3dLHIh6H7A2&usp=drive_fs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
