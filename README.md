@@ -1,16 +1,16 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Navina M</h1>
-<h3 align="center">A passionate Data Science Intern from India</h3>
+<h1 align="center">Hi 👋, I'm NAVINA.M</h1>
+<h3 align="center">A passionate DATA SCIENCE INTERN from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navina-murugadas" alt="navina-murugadas" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science, Data Analytics, Development**
+- 🌱 I’m currently learning **Data Science, Data Analytics, Python Development**
 
 - 👨‍💻 All of my projects are available at [https://navina77.devfolio.io/](https://navina77.devfolio.io/)
 
 - 📫 How to reach me **murukavikabhinavi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/open?id=1UCyXLDS2mn93cDk4XHrnu3dLHIh6H7A2&usp=drive_fs](https://drive.google.com/open?id=1UCyXLDS2mn93cDk4XHrnu3dLHIh6H7A2&usp=drive_fs)
+- 📄 Know about my experiences [https://drive.google.com/open?id=1fopYBlQMQQ3NOnLqN0-bLeOHiunJIh0Q&usp=drive_fs](https://drive.google.com/open?id=1fopYBlQMQQ3NOnLqN0-bLeOHiunJIh0Q&usp=drive_fs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
