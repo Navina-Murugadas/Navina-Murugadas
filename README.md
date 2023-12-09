@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **murukavikabhinavi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fs](https://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fs)
+- 📄 Know about my experiences [[https://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fs](https://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fs](https://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fs))
 
 - ⚡ Fun fact **I think I am cool and hardworking.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect wihttps://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fsth me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navina-murugadas2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navina-murugadas2000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/murukavikabhina1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="murukavikabhina1" height="30" width="40" /></a>
