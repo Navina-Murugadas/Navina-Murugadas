@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning **Data Science, Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://navina-murugadas.github.io/Portfolio/](https://navina-murugadas.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://navina-murugadas.github.io/Portfolio/)
 
 - 📫 How to reach me **murukavikabhinavi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fs](https://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fs)
+- 📄 Know about my experiences [RESUME]([https://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fs](https://drive.google.com/open?id=1aLolDpTtXlwNs-TaByDa9q-IG3BcKiAQ&usp=drive_fs))
 
 - ⚡ Fun fact **I think I am cool and hardworking**
 
