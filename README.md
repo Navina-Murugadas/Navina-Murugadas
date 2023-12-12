@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **murukavikabhinavi@gmail.com**
 
-- 📄 Know about my experiences [RESUME]([https://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fs](https://drive.google.com/open?id=1aLolDpTtXlwNs-TaByDa9q-IG3BcKiAQ&usp=drive_fs)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/open?id=13nVzt1RKXs1dGyQRESqdpAymLuBWBZ61&usp=drive_fs](https://drive.google.com/open?id=1aLolDpTtXlwNs-TaByDa9q-IG3BcKiAQ&usp=drive_fs)
 
 - ⚡ Fun fact **I think I am cool and hardworking**
 
