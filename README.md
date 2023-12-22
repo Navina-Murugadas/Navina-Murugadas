@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Data Science Intern from India</h3>
+<h3 align="center">Hi. I am Navina - A passionate Data Science Intern from India</h3>
 
 - 🌱 I’m currently learning **Data Science, Data Analytics**
 
