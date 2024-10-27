@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/a55ca953c83f1830882edb7e7a84d4417f9435002dc0eaeae4aa22be9112415c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3663333839335f36306230326635373739616234613233396137313566343162613661303037657e6d76325f645f353030305f313434375f735f322e676966)](https://navina-murugadas.github.io/Portfolio/)
+[![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)](https://navina-murugadas.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Navina M</h1>
 <h3 align="center">Investigation Associate @ Amazon</h3>
 <img align="right" alt="Data Analyst" width="400" src="https://upmetrics.com/hs-fs/hubfs/Data%20analysis.gif?width=500&height=500&name=Data%20analysis.gif">
