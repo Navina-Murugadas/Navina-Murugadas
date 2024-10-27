@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)](https://navina-murugadas.github.io/Portfolio/)
+[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)](https://navina-murugadas.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Navina M</h1>
 <h3 align="center">Investigation Associate @ Amazon</h3>
 <img align="right" alt="Data Analyst" width="400" src="https://upmetrics.com/hs-fs/hubfs/Data%20analysis.gif?width=500&height=500&name=Data%20analysis.gif">
