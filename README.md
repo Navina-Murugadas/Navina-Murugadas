@@ -22,7 +22,7 @@
 
 <h3 align="left">My Badges:</h3>
 <p align="left">
-  <img src="https://github.com/Navina-Murugadas/Navina-Murugadas/blob/main/Badges/Google-Data-Analytics.png" alt="Google-Data-Analytics" width="100" height="100" />
+  <img src="https://github.com/Navina-Murugadas/Navina-Murugadas/blob/main/Badges/Google-Data-Analytics.png" alt="Google-Data-Analytics" width="120" height="120" />
   <img src="https://github.com/Navina-Murugadas/Navina-Murugadas/blob/main/Badges/badge2.png" alt="Badge 2" width="100" height="100" />
   <img src="https://github.com/Navina-Murugadas/Navina-Murugadas/blob/main/Badges/badge3.png" alt="Badge 3" width="100" height="100" />
 </p>
