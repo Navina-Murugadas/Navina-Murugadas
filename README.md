@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">My Badges:</h3>
-<p align="left" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://github.com/Navina-Murugadas/Navina-Murugadas/blob/main/Badges/Google-Data-Analytics.png" alt="Google Data Analytics" width="150" height="150" />
   <img src="https://github.com/Navina-Murugadas/Navina-Murugadas/blob/main/Badges/CISCO%20Data-Analytics-essentials.png" alt="CISCO Data Analytics Essentials" width="150" height="150" />
   <img src="https://github.com/Navina-Murugadas/Navina-Murugadas/blob/main/Badges/CISCO%20Introduction-to-Data-Science.png" alt="CISCO Introduction to Data Science" width="150" height="150" />
@@ -32,7 +32,8 @@
   <img src="https://github.com/Navina-Murugadas/Navina-Murugadas/blob/main/Badges/SLASHMARK_Practitioner_Badge.png" alt="SLASHMARK Practitioner Badge" width="150" height="150" />
   <img src="https://github.com/Navina-Murugadas/Navina-Murugadas/blob/main/Badges/Verified_Analytics_Bootcamp_Certification.png" alt="Verified Analytics Bootcamp Certification" width="150" height="150" />
   <img src="https://github.com/Navina-Murugadas/Navina-Murugadas/blob/main/Badges/CISCO%20Introduction-to-CyberSecurity.png" alt="CISCO Introduction to CyberSecurity" width="150" height="150" />
-</p>
+</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
