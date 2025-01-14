@@ -26,6 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navina-murugadas&show_icons=true&locale=en&layout=compact" alt="navina-murugadas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navina-murugadas&show_icons=true&locale=en" alt="navina-murugadas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navina-murugadas&" alt="navina-murugadas" /></p>
-
