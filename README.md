@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **murukavikabhinavi@gmail.com**
 
-- 📄 Explore my experience and expertise in detail on [My Resume](https://drive.google.com/open?id=12X3sF2xqrZYu1sX_I6mw5KlsP1FrDID-&usp=drive_fs)
+- 📄 Explore my experience and expertise in detail on [My Resume](https://drive.google.com/open?id=12qI93dVyJUNGLVPXgYSIDAFdpSoFTPUI&usp=drive_fs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
