@@ -9,7 +9,7 @@
 
 - 👨‍💻 See the full lineup of my work here: [MY PORTFOLIO](https://navina-murugadas.github.io/Portfolio/)
 
-- 📫 Reach me at **murukavikabhinavi@gmail.com**
+- 📫 Reach me at **navina.mk7@gmail.com**
 
 - 📄 Explore my experience and expertise in detail on [My Resume](https://drive.google.com/open?id=1-ZLk_SAzJ69HXqZ9jHWTS3CC_fAd_ClT&usp=drive_fs)
 
