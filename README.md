@@ -53,49 +53,28 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Languages and Tools  
 
 <table>
-  <tr>
-    <td valign="top">
-      <p align="left">
-        <!-- Python -->
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        </a>
-        <!-- Pandas -->
-        <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-        </a>
-        <!-- SQL (MySQL as proxy) -->
-        <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-        </a>
-        <!-- Power BI -->
-        <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/>
-        </a>
-        <!-- Tableau -->
-        <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
-        </a>
-        <!-- Snowflake -->
-        <a href="https://www.snowflake.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/snowflake-2.svg" alt="snowflake" width="40" height="40"/>
-        </a>
-        <!-- Excel -->
-        <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
-        </a>
-      </p>
-      <p>
-        <strong>Key stack:</strong> SQL • Python • Power BI • Tableau • Snowflake • Excel
-      </p>
-    </td>
-    <td valign="top" width="340">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navina-murugadas&layout=compact&langs_count=6&theme=tokyonight" alt="Most used languages" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td>
+
+<!-- Languages & Tools Icons -->
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="sql server" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+</p>
+
+</td>
+<td>
+
+<!-- Most Used Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navina-murugadas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="navina-murugadas" height="150"/>
+</p>
+
+</td>
+</tr>
 </table>
