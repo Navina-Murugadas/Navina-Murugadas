@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Navina</h1>
 <h3 align="center">
 Investigation Associate @ Amazon | Aspiring Data Analyst <br> 
-<sub><i>Passionate about transforming data into insights and solving real-world problems</i></sub>
+<sub><i>Turning raw data into actionable insights that support decision-making and business growth</i></sub>
 </h3>
 
 ---
@@ -14,6 +14,15 @@ Investigation Associate @ Amazon | Aspiring Data Analyst <br>
 - 👨‍💻 **Projects available here:** [My Portfolio](https://navina-murugadas.github.io/Portfolio/)  
 - 📚 **Continuously expanding expertise in Advanced Analytics & Machine Learning.**  
 - 📫 **Reach me at:** navina.mk7@gmail.com  
+
+---
+
+## 📌 Featured Projects  
+
+- 📊 [**Yelp Business Reviews Analysis**](https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis) – End-to-end pipeline on **7M Yelp reviews** using Python, Snowflake & Power BI for business, category, and sentiment insights.  
+- 🏥 [**Insurance Data Analysis**](https://github.com/Navina-Murugadas/Insurance_Data_Analysis) – **Power BI dashboard** analyzing 5 years of insurance data (premiums, claims & demographics).  
+- 🛒 [**Superstores Sales Analysis**](https://github.com/Navina-Murugadas/Superstores_Tableau) – **Tableau dashboard** on sales, profitability & customer behavior (2020–2023).  
+- 🍏 [**Apple Store Sales Analysis**](https://github.com/Navina-Murugadas/Apple_Global_Sales_Analysis) – **Excel dashboard** exploring Apple’s sales trends, product performance & regional growth (2018–2022).  
 
 ---
 
