@@ -53,13 +53,11 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools  
 
 <table>
   <tr>
     <td valign="top">
-
-      <!-- icons row -->
       <p align="left">
         <!-- Python -->
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -90,15 +88,10 @@
           <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
         </a>
       </p>
-
-      <!-- short text summary -->
       <p>
         <strong>Key stack:</strong> SQL • Python • Power BI • Tableau • Snowflake • Excel
       </p>
-
     </td>
-
-    <!-- right column: Top languages card -->
     <td valign="top" width="340">
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navina-murugadas&layout=compact&langs_count=6&theme=tokyonight" alt="Most used languages" />
@@ -106,10 +99,3 @@
     </td>
   </tr>
 </table>
-
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=navina-murugadas&show_icons=true&locale=en&layout=compact" alt="navina-murugadas" />
-</p>
