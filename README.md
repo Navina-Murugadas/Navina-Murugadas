@@ -1,9 +1,23 @@
-<p align="center">
-  <a href="https://navina-murugadas.github.io/Portfolio/">
-    <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" 
-         alt="MasterHead" width="800" />
-  </a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<h1>Hi 👋, I'm Navina</h1>
+<h3>Investigation Associate @ Amazon | Aspiring Data Analyst</h3>
+<h4><i>Turning raw data into actionable insights that support decision-making and business growth</i></h4>
+
+</td>
+<td>
+  <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" 
+       alt="MasterHead" width="350" />
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Navina</h1>
 <h3 align="center">
