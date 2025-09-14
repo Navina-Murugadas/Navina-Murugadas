@@ -7,9 +7,9 @@
 <h1>Hi 👋, I'm Navina</h1>
 <h4>Investigation Associate @ Amazon | Aspiring Data Analyst</h4>
 <h4><i>Turning raw data into actionable insights that support decision-making and business growth</i></h4>
-<p align="center">
+<p align="left">
   <a href="Resume/Navina_DataAnalyst.pdf" target="_blank" style="text-decoration:none; font-weight:bold; font-size:16px;">
-    📄 View My Resume
+    📄View My Resume
   </a>
 </p>
 
