@@ -83,7 +83,7 @@
   </a>
 
     <!-- Cisco Data Analytics Essentials -->
-  <a href="https://www.credly.com/badges/bf03677b-55d4-496c-b183-481880573a1f/public_url" target="_blank" rel="noreferrer">
+  <a href="[https://www.credly.com/badges/bf03677b-55d4-496c-b183-481880573a1f/public_url](https://www.credly.com/badges/bf03677b-55d4-496c-b183-481880573a1f/public_url)" target="_blank" rel="noreferrer">
     <img src="Badges/CISCO Data-Analytics-essentials.png" alt="CISCO Data-Analytics-essentials" width="120" height="120"/>
   </a>
 
