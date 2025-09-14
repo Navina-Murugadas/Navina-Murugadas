@@ -62,7 +62,7 @@
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications/Badges
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-top: 10px;">
   
