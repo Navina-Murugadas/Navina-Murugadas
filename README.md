@@ -79,12 +79,12 @@
 
   <!-- IBM Data Science -->
   <a href="https://www.credly.com/badges/b939d877-a5aa-4d18-a57b-83fed5e425e4/print" target="_blank" rel="noreferrer">
-    <img src="Badges/IBM-applied-data-science-with-python-level-2.png" alt="IBM Data Science" width="120" height="120"/>
+    <img src="Badges/IBM applied-data-science-with-python-level-2.png" alt="IBM Data Science" width="120" height="120"/>
   </a>
 
   <!-- Cisco Data Analytics Essentials -->
   <a href="https://www.credly.com/badges/bf03677b-55d4-496c-b183-481880573a1f/public_url" target="_blank" rel="noreferrer">
-    <img src="Badges/CISCO-Data-Analytics-essentials.png" alt="CISCO Data Analytics Essentials" width="120" height="120"/>
+    <img src="Badges/CISCO Data-Analytics-essentials.png" alt="CISCO Data Analytics Essentials" width="120" height="120"/>
   </a>
 
 </div>
