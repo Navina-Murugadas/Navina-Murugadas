@@ -29,30 +29,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-- 📊 [**Yelp Business Reviews Analysis**](https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis) – End-to-end pipeline on **7M Yelp reviews** using Python, Snowflake & Power BI for business, category, and sentiment insights.  
-- 🏥 [**Insurance Data Analysis**](https://github.com/Navina-Murugadas/Insurance_Data_Analysis) – **Power BI dashboard** analyzing 5 years of insurance data (premiums, claims & demographics).  
-- 🛒 [**Superstores Sales Analysis**](https://github.com/Navina-Murugadas/Superstores_Tableau) – **Tableau dashboard** on sales, profitability & customer behavior (2020–2023).  
-- 🍏 [**Apple Store Sales Analysis**](https://github.com/Navina-Murugadas/Apple_Global_Sales_Analysis) – **Excel dashboard** exploring Apple’s sales trends, product performance & regional growth (2018–2022).  
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/navina-m" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navina-m" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/murukavikabhina1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="murukavikabhina1" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/navina_77" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navina_77" height="30" width="40" />
-</a>
-</p>
-
----
-
 ## 🛠️ Languages and Tools  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-top: 10px;">
@@ -83,6 +59,30 @@
   
 
 </div>
+
+--
+
+## 📌 Featured Projects  
+
+- 📊 [**Yelp Business Reviews Analysis**](https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis) – End-to-end pipeline on **7M Yelp reviews** using Python, Snowflake & Power BI for business, category, and sentiment insights.  
+- 🏥 [**Insurance Data Analysis**](https://github.com/Navina-Murugadas/Insurance_Data_Analysis) – **Power BI dashboard** analyzing 5 years of insurance data (premiums, claims & demographics).  
+- 🛒 [**Superstores Sales Analysis**](https://github.com/Navina-Murugadas/Superstores_Tableau) – **Tableau dashboard** on sales, profitability & customer behavior (2020–2023).  
+- 🍏 [**Apple Store Sales Analysis**](https://github.com/Navina-Murugadas/Apple_Global_Sales_Analysis) – **Excel dashboard** exploring Apple’s sales trends, product performance & regional growth (2018–2022).  
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/navina-m" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navina-m" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/murukavikabhina1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="murukavikabhina1" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/navina_77" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navina_77" height="30" width="40" />
+</a>
+</p>
 
 ---
 
