@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://navina-murugadas.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Navina</h1>
-<h3 align="center">Investigation Associate @ Amazon | Aspiring Data Analyst (Passionate about transforming data into insights and solving real-world problems)</h3>
+<h3 align="center">Investigation Associate @ Amazon | Aspiring Data Analyst <br> (Passionate about transforming data into insights and solving real-world problems)</h3>
 
 - 👩‍💼 I’m currently working in **Product Quality (PQ) at Amazon, safeguarding brands through investigations.**
 
