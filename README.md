@@ -56,42 +56,36 @@
 ## 🛠️ Languages and Tools  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-top: 10px;">
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="filter: invert(1);"/>
-  </a>
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="filter: invert(1);"/>
-  </a>
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="filter: invert(1);"/>
-  </a>
+  <img src="Assets/MySQL.png" alt="MySQL" width="50" height="50"/>
+  <!-- PowerBI -->
+  <img src="Assets/PowerBI.png" alt="PowerBI" width="50" height="50"/>
+  <!-- Python -->
+  <img src="Assets/Python.png" alt="Python" width="50" height="50"/>
+  <!-- Tableau -->
+  <img src="Assets/Tableau.jpg" alt="Tableau" width="50" height="50"/>
+  <!-- Excel -->
+  <img src="Assets/Excel.png" alt="Excel" width="50" height="50"/>
+  <!-- Snowflake -->
+  <img src="Assets/Snowflake.png" alt="Snowflake" width="50" height="50"/>
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/navina-murugadas/assets/main/icons/seaborn.png" alt="Seaborn" width="50" height="50"/>
   </a>
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/navina-murugadas/assets/main/icons/tableau.png" alt="Tableau" width="50" height="50"/>
-  </a>
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/navina-murugadas/assets/main/icons/excel.png" alt="Excel" width="50" height="50"/>
-  </a>
-  <!-- Snowflake -->
-  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/navina-murugadas/assets/main/icons/snowflake.png" alt="Snowflake" width="50" height="50"/>
-  </a>
+  <!-- HCJ -->
+  <img src="Assets/HCJ.png" alt="HTML_CSS_JS" width="50" height="50"/>
+  <!-- Jupyter -->
+  <img src="Assets/Jupyter.png" alt="Jupyter" width="50" height="50"/>
+  <!-- Pycharm -->
+  <img src="Assets/Pycharm.png" alt="Pycharm" width="50" height="50"/>
+  <!-- VSC -->
+  <img src="Assets/VSC.png" alt="Visual Studio Code" width="50" height="50"/>
+  
+
 </div>
 
 ---
