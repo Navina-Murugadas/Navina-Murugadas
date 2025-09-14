@@ -73,20 +73,19 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; align-items: center; margin-top: 10px;">
   
   <!-- Google Data Analytics -->
-  <a href="[https://www.coursera.org/account/accomplishments/verify/XYZ123](https://www.credly.com/badges/70d6309a-280d-4869-8c66-6721f497fc71/linked_in_profile)" target="_blank" rel="noreferrer">
+  <a href="https://www.credly.com/badges/70d6309a-280d-4869-8c66-6721f497fc71/linked_in_profile" target="_blank" rel="noreferrer">
     <img src="Badges/Google-Data-Analytics.png" alt="Google Data Analytics" width="120" height="120"/>
   </a>
 
   <!-- IBM Data Science -->
-  <a href="[https://www.coursera.org/account/accomplishments/verify/ABC456](https://www.credly.com/badges/b939d877-a5aa-4d18-a57b-83fed5e425e4/print)" target="_blank" rel="noreferrer">
-    <img src="Badges/IBM applied-data-science-with-python-level-2.png" alt="IBM Data Science" width="120" height="120"/>
+  <a href="https://www.credly.com/badges/b939d877-a5aa-4d18-a57b-83fed5e425e4/print" target="_blank" rel="noreferrer">
+    <img src="Badges/IBM-applied-data-science-with-python-level-2.png" alt="IBM Data Science" width="120" height="120"/>
   </a>
 
   <!-- Cisco Data Analytics Essentials -->
-  <a href="[https://www.credly.com/badges/bf03677b-55d4-496c-b183-481880573a1f/public_url](https://www.credly.com/badges/bf03677b-55d4-496c-b183-481880573a1f/public_url)" target="_blank" rel="noreferrer">
-    <img src="Badges/CISCO Data-Analytics-essentials.png" alt="CISCO Data-Analytics-essentials" width="120" height="120"/>
+  <a href="https://www.credly.com/badges/bf03677b-55d4-496c-b183-481880573a1f/public_url" target="_blank" rel="noreferrer">
+    <img src="Badges/CISCO-Data-Analytics-essentials.png" alt="CISCO Data Analytics Essentials" width="120" height="120"/>
   </a>
-
 
 </div>
 
