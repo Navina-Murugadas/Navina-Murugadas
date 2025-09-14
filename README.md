@@ -74,37 +74,37 @@
   
   <!-- Google Data Analytics -->
   <a href="https://www.credly.com/badges/70d6309a-280d-4869-8c66-6721f497fc71/public_url" target="_blank" rel="noreferrer">
-    <img src="Badges/Google-Data-Analytics.png" alt="Google Data Analytics" width="100" height="100"/>
+    <img src="Badges/Google-Data-Analytics.png" alt="Google Data Analytics" width="110" height="110"/>
   </a>
 
   <!-- IBM Data Analysis -->
   <a href="https://www.credly.com/badges/c5878ae9-e99c-462d-894a-1dd1c6643767/public_url" target="_blank" rel="noreferrer">
-    <img src="Badges/IBM data-analysis-using-python.png" alt="IBM Data Science" width="100" height="100"/>
+    <img src="Badges/IBM data-analysis-using-python.png" alt="IBM Data Science" width="110" height="110"/>
   </a>
 
   <!-- IBM Data Visualization -->
   <a href="https://www.credly.com/badges/81a579ab-21e3-41cf-ad82-f295d59934d7/public_url" target="_blank" rel="noreferrer">
-    <img src="Badges/IBM data-visualization-using-python.png" alt="IBM Data Science" width="100" height="100"/>
+    <img src="Badges/IBM data-visualization-using-python.png" alt="IBM Data Science" width="110" height="110"/>
   </a>
 
   <!-- IBM Data Science -->
   <a href="https://www.credly.com/badges/b939d877-a5aa-4d18-a57b-83fed5e425e4/public_url" target="_blank" rel="noreferrer">
-    <img src="Badges/IBM applied-data-science-with-python-level-2.png" alt="IBM Data Science" width="100" height="100"/>
+    <img src="Badges/IBM applied-data-science-with-python-level-2.png" alt="IBM Data Science" width="110" height="110"/>
   </a>
 
   <!-- Cisco Data Analytics Essentials -->
   <a href="https://www.credly.com/badges/bf03677b-55d4-496c-b183-481880573a1f/public_url" target="_blank" rel="noreferrer">
-    <img src="Badges/CISCO Data-Analytics-essentials.png" alt="CISCO Data Analytics Essentials" width="100" height="100"/>
+    <img src="Badges/CISCO Data-Analytics-essentials.png" alt="CISCO Data Analytics Essentials" width="110" height="110"/>
   </a>
 
   <!-- Cisco Data Science -->
   <a href="https://www.credly.com/badges/e9e4dce4-5175-4e37-a113-921b70148906/public_url" target="_blank" rel="noreferrer">
-    <img src="Badges/CISCO Introduction-to-Data-Science.png" alt="CISCO Data Analytics Essentials" width="100" height="100"/>
+    <img src="Badges/CISCO Introduction-to-Data-Science.png" alt="CISCO Data Analytics Essentials" width="110" height="110"/>
   </a>
 
   <!-- Cisco Cyber Security -->
   <a href="https://www.credly.com/badges/5ba3c60d-cb9a-4597-b3ee-796e976dd9e3/public_url" target="_blank" rel="noreferrer">
-    <img src="Badges/CISCO Introduction-to-CyberSecurity.png" alt="CISCO Data Analytics Essentials" width="100" height="100"/>
+    <img src="Badges/CISCO Introduction-to-CyberSecurity.png" alt="CISCO Data Analytics Essentials" width="110" height="110"/>
   </a>
   
 </div>
