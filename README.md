@@ -1,4 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://navina-murugadas.github.io/Portfolio/)
+<p align="center">
+  <a href="https://navina-murugadas.github.io/Portfolio/">
+    <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" 
+         alt="MasterHead" width="800" />
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Navina</h1>
 <h3 align="center">
