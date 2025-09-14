@@ -107,11 +107,6 @@
     <img src="Badges/CISCO Introduction-to-CyberSecurity.png" alt="Cisco Introduction to Cyber Security" width="110" height="110"/>
   </a>
 
-  <!-- Virtual Internships / Programs (plain images) -->
-  <img src="Badges/PSYLIQ DATA_ANALYST_BADGE.png" alt="Psyliq Data Analyst Virtual Internship" width="110" height="110" title="Psyliq Data Analyst Virtual Internship"/>
-  <img src="Badges/SLASHMARK Practitioner_Badge.png" alt="Slashmark Practitioner Virtual Internship" width="110" height="110" title="Slashmark Practitioner Virtual Internship"/>
-  <img src="Badges/Verified Analytics Bootcamp Certification.png" alt="Verified Analytics Bootcamp Virtual Internship" width="110" height="110" title="Verified Analytics Bootcamp Virtual Internship"/>
-
 </div>
 
 ---
