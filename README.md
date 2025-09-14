@@ -55,7 +55,7 @@
 
 ## 🛠️ Languages and Tools  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-top: 10px;">
   <!-- MySQL -->
   <img src="Assets/MySQL.png" alt="MySQL" width="50" height="50"/>
   <!-- PowerBI -->
