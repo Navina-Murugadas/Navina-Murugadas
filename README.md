@@ -78,22 +78,21 @@
   </a>
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Seaborn_logo.png" alt="Seaborn" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/navina-murugadas/assets/main/icons/seaborn.png" alt="Seaborn" width="50" height="50"/>
   </a>
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Tableau_logo.png" alt="Tableau" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/navina-murugadas/assets/main/icons/tableau.png" alt="Tableau" width="50" height="50"/>
   </a>
   <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/navina-murugadas/assets/main/icons/excel.png" alt="Excel" width="50" height="50"/>
   </a>
   <!-- Snowflake -->
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Snowflake_Logo_2020.svg" alt="Snowflake" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/navina-murugadas/assets/main/icons/snowflake.png" alt="Snowflake" width="50" height="50"/>
   </a>
 </div>
-
 
 ---
 
