@@ -60,7 +60,26 @@
 
 </div>
 
---
+---
+
+## 🎓 Certifications
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-top: 10px;">
+  
+  <!-- Google Data Analytics -->
+  <a href="https://www.coursera.org/account/accomplishments/verify/XYZ123" target="_blank" rel="noreferrer">
+    <img src="Badges/Google-Data-Analytics.png" alt="Google Data Analytics" width="120" height="50"/>
+  </a>
+
+  <!-- IBM Data Science -->
+  <a href="https://www.coursera.org/account/accomplishments/verify/ABC456" target="_blank" rel="noreferrer">
+    <img src="Badges/IBM applied-data-science-with-python-level-2.png" alt="IBM Data Science" width="120" height="50"/>
+  </a>
+
+
+</div>
+
+---
 
 ## 📌 Featured Projects  
 
