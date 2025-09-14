@@ -5,8 +5,8 @@
 <td>
 
 <h1>Hi 👋, I'm Navina</h1>
-<h3>Investigation Associate @ Amazon | Aspiring Data Analyst</h3>
-<h5><i>Turning raw data into actionable insights that support decision-making and business growth</i></h5>
+<h4>Investigation Associate @ Amazon | Aspiring Data Analyst</h4>
+<h4><i>Turning raw data into actionable insights that support decision-making and business growth</i></h4>
 
 </td>
 <td>
