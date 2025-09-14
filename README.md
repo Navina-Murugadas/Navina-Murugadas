@@ -18,13 +18,6 @@
 
 </div>
 
-
-<h1 align="center">Hi 👋, I'm Navina</h1>
-<h3 align="center">
-Investigation Associate @ Amazon | Aspiring Data Analyst <br> 
-<sub><i>Turning raw data into actionable insights that support decision-making and business growth</i></sub>
-</h3>
-
 ---
 
 - 👩‍💼 **Currently working in Product Quality (PQ) at Amazon**, safeguarding brands through investigations.  
