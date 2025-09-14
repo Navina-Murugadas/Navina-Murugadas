@@ -70,7 +70,7 @@
 
 ## 🎓 Certifications/Badges
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; align-items: center; margin-top: 10px;">
   
   <!-- Google Data Analytics -->
   <a href="[https://www.coursera.org/account/accomplishments/verify/XYZ123](https://www.credly.com/badges/70d6309a-280d-4869-8c66-6721f497fc71/linked_in_profile)" target="_blank" rel="noreferrer">
