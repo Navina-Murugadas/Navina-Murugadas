@@ -10,11 +10,11 @@
 
 - 🛠️ Skilled with **SQL, Python, Excel, Power BI, and Tableau.**
 
-- 👨‍💻 All of my projects are available at [https://navina-murugadas.github.io/Portfolio/](https://navina-murugadas.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://navina-murugadas.github.io/Portfolio/)
 
 - 📚 Continuously expanding **expertise in advanced analytics & machine learning.**
 
-- 📫 How to reach me **navina.mk7@gmail.com**
+- 📫 Reach me - **navina.mk7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
