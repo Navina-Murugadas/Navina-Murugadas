@@ -113,10 +113,10 @@
 
 ## 📌 Featured Projects  
 
-- 📊 [**Yelp Business Reviews Analysis**](https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis) – End-to-end pipeline on **7M Yelp reviews** using Python, Snowflake & Power BI for business, category, and sentiment insights.  
-- 🏥 [**Insurance Data Analysis**](https://github.com/Navina-Murugadas/Insurance_Data_Analysis) – **Power BI dashboard** analyzing 5 years of insurance data (premiums, claims & demographics).  
-- 🛒 [**Superstores Sales Analysis**](https://github.com/Navina-Murugadas/Superstores_Tableau) – **Tableau dashboard** on sales, profitability & customer behavior (2020–2023).  
-- 🍏 [**Apple Store Sales Analysis**](https://github.com/Navina-Murugadas/Apple_Global_Sales_Analysis) – **Excel dashboard** exploring Apple’s sales trends, product performance & regional growth (2018–2022).  
+- 📊 [**Yelp Business Reviews Analytics**](https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis) – End-to-end pipeline on **7M Yelp reviews** using Python, Snowflake & Power BI for business, category, and sentiment insights.  
+- 🏥 [**Insurance Policy Risk Analysis**](https://github.com/Navina-Murugadas/Insurance_Data_Analysis) – **Power BI dashboard** analyzing 5 years of insurance data (premiums, claims & demographics).  
+- 🛒 [**Superstores Sales Performance Analysis**](https://github.com/Navina-Murugadas/Superstores_Tableau) – **Tableau dashboard** on sales, profitability & customer behavior (2020–2023).  
+- 🍏 [**Apple Store Sales Insights**](https://github.com/Navina-Murugadas/Apple_Global_Sales_Analysis) – **Excel dashboard** exploring Apple’s sales trends, product performance & regional growth (2018–2022).  
 
 ---
 
