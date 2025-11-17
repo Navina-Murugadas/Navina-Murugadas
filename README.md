@@ -26,12 +26,12 @@
 
 ---
 
-- 👩‍💼 **Currently working in Product Quality (PQ) at Amazon**, safeguarding brands through investigations.  
-- 📊 **Building a strong foundation in Data Analytics & Visualization.**  
-- 🛠️ **Skilled with SQL, Python, Excel, Power BI, and Tableau.**  
-- 👨‍💻 **Projects available here:** [My Portfolio](https://navina-murugadas.github.io/Portfolio/)  
-- 📚 **Continuously expanding expertise in Advanced Analytics & Machine Learning.**  
-- 📫 **Reach me at:** navina.mk7@gmail.com  
+- 👩‍💼 **Currently working as Investigation Associate at Amazon (Product Quality)**, driving data-driven insights for brand protection and quality assurance. Previously in **Risk Management** – analyzing patterns and trends to detect fraud and reduce risks.  
+- 📊 **Passionate about Data Analytics, ETL Pipelines & Data Visualization** – transforming complex datasets into actionable business intelligence.  
+- 🛠️ **Tech Stack:** SQL, Python, Pandas, Power BI, Tableau, Snowflake, AWS (Lambda, S3, Glue, Athena).  
+- 👨‍💻 **Portfolio:** [My Work](https://navina-murugadas.github.io/Portfolio/)  
+- 📚 **Expertise:** Data Pipeline Orchestration, Advanced Analytics, Business Intelligence, Fraud Detection, Statistical Analysis & Machine Learning.  
+- 📫 **Let's Connect:** navina.mk7@gmail.com  
 
 ---
 
@@ -121,14 +121,64 @@
 
 ## 📌 Featured Projects  
 
-- 📊 [**Yelp Business Reviews Analytics**](https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis) – End-to-end pipeline on **7M Yelp reviews** using Python, Snowflake & Power BI for business, category, and sentiment insights.  
-- 🏥 [**Insurance Policy Risk Analysis**](https://github.com/Navina-Murugadas/Insurance_Data_Analysis) – **Power BI dashboard** analyzing 5 years of insurance data (premiums, claims & demographics).  
-- 🛒 [**Superstores Sales Performance Analysis**](https://github.com/Navina-Murugadas/Superstores_Tableau) – **Tableau dashboard** on sales, profitability & customer behavior (2020–2023).  
-- 🍏 [**Apple Store Sales Insights**](https://github.com/Navina-Murugadas/Apple_Global_Sales_Analysis) – **Excel dashboard** exploring Apple’s sales trends, product performance & regional growth (2018–2022).  
+### 1️⃣ **📊 [Yelp Business Reviews Analytics](https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis)**  
+   - **Scope:** Large-scale analysis of **7M+ Yelp reviews** with sentiment analysis & business insights  
+   - **Tech:** Python, Pandas, Snowflake, Power BI, Statistical Analysis  
+   - **Key Features:** Data pipeline orchestration, sentiment analysis, trend forecasting, interactive dashboards  
+
+### 2️⃣ **☁️ [AWS Serverless ETL Pipeline](https://github.com/Navina-Murugadas/AWS_Serverless_ETL_Pipeline)** 
+   - **Scope:** Fully event-driven ETL pipeline transforming JSON transactions to Parquet with automated schema discovery  
+   - **Tech:** Amazon S3, AWS Lambda, AWS Glue Crawler, Amazon Athena, Python  
+   - **Key Features:** S3 event triggers, JSON-to-Parquet transformation, automated data cataloging, serverless analytics  
+
+### 3️⃣ **🏥 [Insurance Policy Risk Analysis](https://github.com/Navina-Murugadas/Insurance_Data_Analysis)**  
+   - **Scope:** Comprehensive 5+ year analysis of insurance premiums, claims, and risk demographics  
+   - **Tech:** Power BI, SQL, Excel, Data Modeling  
+   - **Key Features:** Risk segmentation, claims analysis, premium trends, executive dashboards  
+
+### 4️⃣ **🛒 [Superstores Sales Performance Analysis](https://github.com/Navina-Murugadas/Superstores_Tableau)**  
+   - **Scope:** Multi-dimensional sales analysis covering revenue, profitability & regional trends (2020–2023)  
+   - **Tech:** Tableau, SQL, Excel, Data Aggregation  
+   - **Key Features:** Sales KPIs, regional performance, customer segmentation, profitability analysis  
+
+### 5️⃣ **🍏 [Apple Store Sales Insights](https://github.com/Navina-Murugadas/Apple_Global_Sales_Analysis)**  
+   - **Scope:** Global Apple sales trends, product performance & market analysis  
+   - **Tech:** Excel, Power BI, Data Visualization, Financial Analysis  
+   - **Key Features:** Product performance metrics, regional growth analysis, market positioning
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🎯 Core Competencies  
+
+| **Analytics & Databases** | **Visualization & BI** | **Cloud (AWS)** | **Programming & Tools** |
+|:-------:|:-------:|:-------:|:-------:|
+| SQL, Snowflake, Data Modeling | Power BI, Tableau, Excel | AWS (S3, Lambda, Glue, Athena) | Python, Pandas, Jupyter |
+| Statistical Analysis, ETL | Data Storytelling, KPI Design | CloudWatch, IAM, Event-Driven | PyCharm, VS Code |
+
+---
+
+## 🌟 Career Highlights
+
+| Achievement | Details |
+|:---|:---|
+| 🚀 **Fast-Track Progression** | Started in Low/Medium Complexity Photon → Advanced to High Complexity Photon → Promoted to GWF within **6 months**. Due to consistent high performance, internally transferred to **Product Quality (Custom) team** |
+| ⭐ **Top Performer** | Recognized as **Super Star Trainee** with outstanding performance in complex case resolutions |
+| 🎓 **10+ Industry Certifications** | AWS, Google, IBM, CISCO across Data Analytics, Data Science & Cloud |
+| 📊 **5+ End-to-End Projects** | From ETL pipelines to predictive modeling on real-world datasets |
+| 🔍 **Unique Blend** | Investigations expertise + Data Analytics = Anomaly Detection & Pattern Recognition |
+
+---
+
+## 💼 My Strengths
+
+> **"From uncovering patterns in investigations to insights in data, I thrive on finding clarity in complexity."**
+
+- **Investigative Rigor:** Fraud detection, Root cause analysis, Risk management expertise
+- **Data-Driven Insights:** Building pipelines, Dashboards, and Statistical models  
+- **Problem-Solving:** Translating complex information into actionable intelligence  
+- **Quick Learner:** Mastered multiple tools and technologies while advancing through fast-track programs
+
+---
 <p align="left">
 <a href="https://linkedin.com/in/navina-m" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navina-m" height="30" width="40" />
@@ -143,4 +193,6 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navina-murugadas&show_icons=true&locale=en&layout=compact" alt="navina-murugadas" /></p>
+<div align="center">
+  <i>✨ Crafting data-driven solutions that make an impact ✨</i>
+</div>
