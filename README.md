@@ -38,6 +38,8 @@
 ## 🛠️ Languages and Tools  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-top: 10px;">
+  <!-- MS SQL -->
+  <img src="Assets/MS SQL.png" alt="MS SQL" width="50" height="50"/>
   <!-- MySQL -->
   <img src="Assets/MySQL.png" alt="MySQL" width="50" height="50"/>
   <!-- PowerBI -->
@@ -62,6 +64,8 @@
   <img src="Assets/Pycharm.png" alt="Pycharm" width="50" height="50"/>
   <!-- VSC -->
   <img src="Assets/VSC.png" alt="Visual Studio Code" width="50" height="50"/>
+  <!-- AWS -->
+  <img src="Assets/AWS.jpg" alt="AWS" width="50" height="50"/>
   
 
 </div>
@@ -71,6 +75,10 @@
 ## 🎓 Certifications / Badges
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 100px; align-items: center; margin-top: 10px;">
+  <!-- AWS Gen AI -->
+  <a href="https://www.credly.com/badges/a41b15a1-fd75-4227-a04e-bc630ab300a6/public_url" target="_blank" rel="noreferrer">
+    <img src="Badges/AWS Gen AI.png" alt="AWS Gen AI" width="110" height="110"/>
+  </a>
 
   <!-- Google Data Analytics -->
   <a href="https://www.credly.com/badges/70d6309a-280d-4869-8c66-6721f497fc71/public_url" target="_blank" rel="noreferrer">
