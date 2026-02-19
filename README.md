@@ -117,15 +117,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
          height="40" width="40" />
   </a>
-
-  <a href="https://www.threads.com/@data.destiny_" target="_blank">
-    <img src="https://cdn.simpleicons.org/threads/ffffff" height="40"/>
-  </a>
-  
-  <a href="https://www.instagram.com/data.destiny_?igsh=MWVqMnpwZzViMWhxdw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         height="40" width="40" />
-  </a>
 </p>
 
 
