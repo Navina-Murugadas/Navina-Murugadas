@@ -2,9 +2,9 @@
 
 <h1>Hi 👋, I'm Navina</h1>
 
-<h4>Investigation Associate @ Amazon | Data & Risk Analytics</h4>
+<h4>Risk & Fraud Analytics Professional | Investigation Associate @ Amazon</h4>
 
-<h4><i>Turning raw data into actionable insights that support decision-making</i></h4>
+<h4><i>Turning investigation signals into structured risk insights & data-driven decisions</i></h4>
 
 <p>
   <a href="Resume/Navina_Analyst.pdf" target="_blank">
@@ -14,114 +14,120 @@
 
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"
-       alt="Data Analytics Animation"
-       width="280" />
-</div>
+---
+
+## 👩‍💼 About Me
+
+Risk & Compliance Analytics professional with 2 years of experience at Amazon across Product Quality and Claims Risk workflows.
+
+🔎 Experience Highlights:
+- 150,000+ fraud, compliance, and high-risk investigations handled
+- 100,000+ Product Quality cases (~100% decision accuracy)
+- 43,800+ claims adjudications (99.6% accuracy) including chargebacks, retro-charges, and appeals
+- 15K+ monthly investigations using policy-driven risk indicators
+
+I leverage SQL, Excel, and pattern detection techniques to:
+- Identify abuse patterns
+- Detect anomaly signals
+- Generate structured risk summaries
+- Support enforcement and operational decisions at scale
+
+Currently focused on advancing into Risk Analyst / Fraud Analytics / Trust & Safety roles.
 
 ---
 
-### 👩‍💼 About Me
+## 🛠️ Core Technical Stack
 
-- Investigation Associate at **Amazon (Product Quality)** supporting **risk, compliance, and fraud-related investigations** through structured analysis and evidence-based decision-making.  
-- Previously worked in **Claims Risk Investigation**, identifying patterns and anomalies to prevent policy abuse and reduce operational risk.  
-- Strong interest in **Data Analytics, BI reporting, ETL pipelines, and risk-focused analytics**, with hands-on project experience across SQL, Python, Power BI, and cloud platforms.  
+### 📊 Data & Risk Analytics
+- SQL (CTEs, aggregations, window functions)
+- Excel (Advanced formulas, pivot tables, KPI tracking)
+- Power BI (DAX, Data Modeling, Power Query)
+- Fraud Pattern Analysis & Anomaly Detection
+- Compliance & AML-aligned workflows
 
----
+### 🐍 Programming
+- Python (Pandas, NumPy)
+- Data Cleaning & EDA
 
-### 🛠️ Tech Stack
-
-- **Data Analytics:** SQL, Excel (Advanced), Power BI (DAX, Power Query, Data Modeling), KPI Reporting  
-- **Programming:** Python (Pandas, NumPy)  
-- **Data Engineering / Cloud:** Snowflake, AWS (S3, Lambda, Glue, Athena)  
-- **Visualization:** Power BI, Tableau  
-- **Tools:** Jupyter, VS Code, PyCharm, Microsoft Office  
-
----
-
-### 🎓 Certifications
-
-- Google Data Analytics Professional Certificate  
-- IBM SQL & Relational Databases  
-- IBM Data Visualization Using Python  
-- AWS Cloud Practitioner Essentials  
-- Field Foundations in Generative AI  
-- Generative AI on AWS (Technical)  
-- Cisco Data Analytics Essentials  
-- Cisco Introduction to Data Science  
-- Cisco Introduction to Cybersecurity  
+### ☁️ Data Engineering & Cloud
+- Snowflake (Dimensional Modeling)
+- AWS (S3, Lambda, Glue, Athena, IAM, CloudWatch)
+- ETL Pipelines (JSON-to-Parquet transformations)
 
 ---
 
-### 📌 Featured Projects
-
-#### 📊 Yelp Business Reviews Analytics  
-🔗 https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis  
-- Processed **6.9M+ Yelp reviews** using Python and SQL  
-- Designed a **Snowflake dimensional data model** for scalable analytics  
-- Built **Power BI dashboards** for KPI tracking, trends, and sentiment insights  
+# 📌 Featured Projects
 
 ---
 
-#### ☁️ AWS Serverless ETL Pipeline  
-🔗 https://github.com/Navina-Murugadas/AWS_Serverless_ETL_Pipeline  
-- Built an **event-driven ETL pipeline** converting JSON to Parquet  
-- Implemented AWS services including **S3, Lambda, Glue, Athena**  
-- Enabled automated schema discovery and scalable analytics workflows  
+## 💳 Payments Fraud & Risk Analysis (SQL)
+🔗 https://github.com/Navina-Murugadas/SQL_Analytics
+
+- Designed an AML-style transaction monitoring framework
+- Analyzed ~4,900 transactions across 500 users
+- Built rule-based fraud detection logic (velocity, high-value, repeated failures)
+- Developed composite user risk scoring to optimize investigation prioritization
+
+**Focus:** Fraud Detection | SQL Analytics | Risk Scoring | AML Logic
 
 ---
 
-#### 🏥 Insurance Policy Risk Analysis  
-🔗 https://github.com/Navina-Murugadas/Insurance_Data_Analysis  
-- Analyzed **293K+ insurance policies** using Power BI  
-- Identified high-risk segments and claims patterns  
-- Created executive-ready dashboards for risk monitoring  
+## 📈 Market Expansion Strategy Analysis (SQL)
+🔗 https://github.com/Navina-Murugadas/SQL_Analytics
+
+- Analyzed multi-table sales dataset using CTEs and aggregations
+- Designed KPIs to evaluate revenue, customer behavior, and cost efficiency
+- Built a market potential model to support data-driven expansion decisions
+- Delivered structured business recommendations based on profitability & scalability
+
+**Focus:** SQL | KPI Design | Business Analytics | Decision Modeling
 
 ---
 
-#### 🛒 Superstores Sales Performance Analysis  
-🔗 https://github.com/Navina-Murugadas/Superstores_Tableau  
-- Analyzed **10K+ transactions** across regions and categories  
-- Built Tableau dashboards highlighting sales, profit, and trends  
+## 📊 Yelp Business Reviews Analytics
+🔗 https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis
+
+- Processed 6.9M+ reviews
+- Built a Snowflake dimensional data model (fact & dimension tables)
+- Developed executive-ready Power BI dashboards
+- Applied SQL validation for data quality and insight accuracy
+
+**Focus:** Data Modeling | BI Reporting | Sentiment Analysis | KPI Insights
 
 ---
 
-### 🌟 Career Highlights
+## ☁️ AWS Serverless ETL Pipeline
+🔗 https://github.com/Navina-Murugadas/AWS_Serverless_ETL_Pipeline
 
-- 🚀 **Fast-track progression at Amazon:** Advanced from low/medium complexity investigations to high-complexity workflows and Guided Workflow (GWF); recognized as a top performer and internally transferred to the Product Quality (Custom) team.
-- ⭐ **Super Star Trainee** recognition for accuracy, quality, and investigation excellence  
-- 📊 **5+ end-to-end analytics projects** spanning BI, ETL, cloud, and data modeling  
-- 🔍 Unique blend of **investigations + analytics**, enabling strong pattern recognition and anomaly detection  
+- Built an event-driven ETL pipeline converting JSON to Parquet
+- Automated ingestion and schema handling
+- Implemented S3, Lambda, Glue, and Athena workflows
+- Enabled scalable analytics architecture
 
----
-
-### 💡 Strengths
-
-- **Investigative Rigor:** Fraud analysis, root cause analysis, risk evaluation  
-- **Data-Driven Insights:** Dashboards, KPI reporting, dimensional modeling  
-- **Problem Solving:** Translating complex data into actionable insights  
-- **Continuous Learning:** Actively building analytics depth through projects and learning logs  
+**Focus:** ETL | Cloud Analytics | Data Engineering | Automation
 
 ---
 
-### 🔗 Connect With Me
+## 🌟 Career Highlights
+
+- ⭐ Super Star Trainee recognition for investigation accuracy & quality
+- 🚀 Internally progressed from Claims Risk to high-complexity Product Quality investigations
+- 📊 150K+ investigations handled across fraud, compliance, and brand protection domains
+- 🔍 Strong hybrid profile: Investigations + Analytics
+
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/navina-m" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          height="40" width="40" />
   </a>
-
-  <a href="https://leetcode.com/navina_77" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-         height="40" width="40" />
-  </a>
 </p>
-
 
 ---
 
 <div align="center">
-  <i>✨ Crafting data-driven solutions that support better decisions ✨</i>
+  <i>🔎 Translating complex risk signals into measurable insights</i>
 </div>
