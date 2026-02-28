@@ -61,7 +61,7 @@ Currently focused on advancing into Risk Analyst / Fraud Analytics / Trust & Saf
 ---
 
 ## 💳 Payments Fraud & Risk Analysis (SQL)
-🔗 https://github.com/Navina-Murugadas/SQL_Analytics
+🔗 [GitHub Repo](https://github.com/Navina-Murugadas/SQL_Analytics/tree/main/sql_case_studies/Payments%20-%20Fraud%20%26%20Risk%20Analysis)
 
 - Designed an AML-style transaction monitoring framework
 - Analyzed ~4,900 transactions across 500 users
@@ -73,7 +73,7 @@ Currently focused on advancing into Risk Analyst / Fraud Analytics / Trust & Saf
 ---
 
 ## 📈 Market Expansion Strategy Analysis (SQL)
-🔗 https://github.com/Navina-Murugadas/SQL_Analytics
+🔗 [GitHub Repo](https://github.com/Navina-Murugadas/SQL_Analytics/tree/main/sql_case_studies/Market%20Expansion%20Analysis%20%E2%80%93%20Monday%20Coffee)
 
 - Analyzed multi-table sales dataset using CTEs and aggregations
 - Designed KPIs to evaluate revenue, customer behavior, and cost efficiency
@@ -85,7 +85,7 @@ Currently focused on advancing into Risk Analyst / Fraud Analytics / Trust & Saf
 ---
 
 ## 📊 Yelp Business Reviews Analytics
-🔗 https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis
+🔗 [GitHub Repo](https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis)
 
 - Processed 6.9M+ reviews
 - Built a Snowflake dimensional data model (fact & dimension tables)
@@ -97,7 +97,7 @@ Currently focused on advancing into Risk Analyst / Fraud Analytics / Trust & Saf
 ---
 
 ## ☁️ AWS Serverless ETL Pipeline
-🔗 https://github.com/Navina-Murugadas/AWS_Serverless_ETL_Pipeline
+🔗 [GitHub Repo](https://github.com/Navina-Murugadas/AWS_Serverless_ETL_Pipeline)
 
 - Built an event-driven ETL pipeline converting JSON to Parquet
 - Automated ingestion and schema handling
