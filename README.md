@@ -22,9 +22,8 @@ Risk & Compliance Analytics professional with 2 years of experience at Amazon ac
 
 🔎 Experience Highlights:
 - 150,000+ fraud, compliance, and high-risk investigations handled
-- 100,000+ Product Quality cases (~100% decision accuracy)
-- 43,800+ claims adjudications (99.6% accuracy) including chargebacks, retro-charges, and appeals
-- 15K+ monthly investigations using policy-driven risk indicators
+  |- 110,000+ Product Quality cases (~100% decision accuracy)
+  |- 43,800+ claims adjudications (99.6% accuracy) including chargebacks, retro-charges, and appeals
 
 I leverage SQL, Excel, and pattern detection techniques to:
 - Identify abuse patterns
