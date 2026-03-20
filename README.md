@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Navina</h1>
 
-<h4>Risk & Fraud Analytics Professional | Investigation Associate @ Amazon</h4>
+<h4>💼 <b>Risk & Fraud Analytics | Trust & Safety | Data Analytics</b></h4>
 
 <h4><i>Turning investigation signals into structured risk insights & data-driven decisions</i></h4>
 
@@ -12,121 +12,128 @@
   </a>
 </p>
 
-</div>
+</div
 
 ---
 
-## 👩‍💼 About Me
+## 🚀 About Me
 
-Risk & Compliance Analytics professional with 2 years of experience at Amazon across Product Quality and Claims Risk workflows.
+Risk & Fraud Analytics professional with 2+ years of experience at Amazon specializing in:
 
-🔎 Experience Highlights:
-- 150,000+ fraud, compliance, and high-risk investigations handled
-  |- 110,000+ Product Quality cases (~100% decision accuracy)
-  |- 43,800+ claims adjudications (99.6% accuracy) including chargebacks, retro-charges, and appeals
+- Fraud Detection & Pattern Analysis  
+- Trust & Safety Investigations  
+- Compliance Risk & AML/KYC  
+- Data-driven decision making  
 
-I leverage SQL, Excel, and pattern detection techniques to:
-- Identify abuse patterns
-- Detect anomaly signals
-- Generate structured risk summaries
-- Support enforcement and operational decisions at scale
+✔ Reviewed **150,000+ high-risk cases**  
+✔ Maintained **~100% decision accuracy**  
+✔ Resolved **43,800+ claims with 99.6% accuracy**
 
-Currently focused on advancing into Risk Analyst / Fraud Analytics / Trust & Safety roles.
+I combine **analytical thinking + data tools (SQL, Power BI, Python)** to uncover fraud patterns, generate insights, and strengthen risk systems.
 
 ---
 
-## 🛠️ Core Technical Stack
+## 🧠 Skills
 
-### 📊 Data & Risk Analytics
-- SQL (CTEs, aggregations, window functions)
-- Excel (Advanced formulas, pivot tables, KPI tracking)
-- Power BI (DAX, Data Modeling, Power Query)
-- Fraud Pattern Analysis & Anomaly Detection
-- Compliance & AML-aligned workflows
+### 🔍 Risk & Fraud Analytics
+- Fraud Detection & Anomaly Detection  
+- Root Cause Analysis (RCA)  
+- Trust & Safety Investigations  
+- Compliance Review (AML / KYC)  
+- OSINT & Risk Management  
 
-### 🐍 Programming
-- Python (Pandas, NumPy)
-- Data Cleaning & EDA
+### 📊 Data Analytics
+- SQL  
+- Power BI (DAX, Power Query)  
+- Excel (Advanced)  
+- Python (Pandas, NumPy)  
+- ETL & Data Processing  
 
-### ☁️ Data Engineering & Cloud
-- Snowflake (Dimensional Modeling)
-- AWS (S3, Lambda, Glue, Athena, IAM, CloudWatch)
-- ETL Pipelines (JSON-to-Parquet transformations)
-
----
-
-# 📌 Featured Projects
-
----
-
-## 💳 Payments Fraud & Risk Analysis (SQL)
-🔗 [GitHub Repo](https://github.com/Navina-Murugadas/SQL_Analytics/tree/main/sql_case_studies/Payments%20-%20Fraud%20%26%20Risk%20Analysis)
-
-- Designed an AML-style transaction monitoring framework
-- Analyzed ~4,900 transactions across 500 users
-- Built rule-based fraud detection logic (velocity, high-value, repeated failures)
-- Developed composite user risk scoring to optimize investigation prioritization
-
-**Focus:** Fraud Detection | SQL Analytics | Risk Scoring | AML Logic
+### 📈 Analytics & Reporting
+- Dashboard Development  
+- KPI Reporting  
+- Data Visualization  
+- Risk Insights Generation  
+- Generative AI  
 
 ---
 
-## 📈 Market Expansion Strategy Analysis (SQL)
-🔗 [GitHub Repo](https://github.com/Navina-Murugadas/SQL_Analytics/tree/main/sql_case_studies/Market%20Expansion%20Analysis%20%E2%80%93%20Monday%20Coffee)
+## 💼 Work Experience
 
-- Analyzed multi-table sales dataset using CTEs and aggregations
-- Designed KPIs to evaluate revenue, customer behavior, and cost efficiency
-- Built a market potential model to support data-driven expansion decisions
-- Delivered structured business recommendations based on profitability & scalability
+### 🏢 Amazon Development Center India Pvt. Ltd.  
+**Investigation Associate** | Mar 2024 – Mar 2026  
 
-**Focus:** SQL | KPI Design | Business Analytics | Decision Modeling
-
----
-
-## 📊 Yelp Business Reviews Analytics
-🔗 [GitHub Repo](https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis)
-
-- Processed 6.9M+ reviews
-- Built a Snowflake dimensional data model (fact & dimension tables)
-- Developed executive-ready Power BI dashboards
-- Applied SQL validation for data quality and insight accuracy
-
-**Focus:** Data Modeling | BI Reporting | Sentiment Analysis | KPI Insights
+- Resolved **43,800+ risk-flagged claims** with **99.6% accuracy**  
+- Investigated chargebacks, disputes, and fraud cases ensuring AML/KYC compliance  
+- Reviewed **110,000+ brand protection & IP compliance cases**  
+- Identified fraud trends using anomaly detection & pattern analysis  
+- Delivered audit-ready risk documentation for compliance reviews  
+- Performed SQL & Excel-based RCA to uncover systemic abuse  
+- Achieved up to **152.5% productivity**  
+- 🏆 *Awarded Super Star Trainee*
 
 ---
 
-## ☁️ AWS Serverless ETL Pipeline
-🔗 [GitHub Repo](https://github.com/Navina-Murugadas/AWS_Serverless_ETL_Pipeline)
+## 📂 Projects
 
-- Built an event-driven ETL pipeline converting JSON to Parquet
-- Automated ingestion and schema handling
-- Implemented S3, Lambda, Glue, and Athena workflows
-- Enabled scalable analytics architecture
+### 🔐 Fraud Risk Triage & Analytics System
+**Tech:** SQL, Python, Power BI, Generative AI  
 
-**Focus:** ETL | Cloud Analytics | Data Engineering | Automation
+- Built an end-to-end fraud analytics pipeline on **800K transactions**  
+- Developed **risk scoring models** for prioritization  
+- Created dashboards to visualize fraud patterns  
+- Generated AI-driven insights using Gemini API  
 
----
-
-## 🌟 Career Highlights
-
-- ⭐ Super Star Trainee recognition for investigation accuracy & quality
-- 🚀 Internally progressed from Claims Risk to high-complexity Product Quality investigations
-- 📊 150K+ investigations handled across fraud, compliance, and brand protection domains
-- 🔍 Strong hybrid profile: Investigations + Analytics
+👉 [GitHub - Fraud Risk Triage & Analytics System](https://github.com/Navina-Murugadas/Scalable-Fraud-Risk-Triage-Analytics-System)
 
 ---
 
-## 🔗 Connect With Me
+### ⭐ Yelp Business Reviews Analytics
+**Tech:** Python, S3, Snowflake, SQL, Power BI  
 
-<p align="left">
-  <a href="https://linkedin.com/in/navina-m" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="40" width="40" />
-  </a>
-</p>
+- Processed **6.9M+ records**  
+- Built a **Snowflake star schema** for scalable analytics  
+- Created DAX-driven dashboards for trend & sentiment insights  
+- Validated data using SQL pipelines  
+
+👉 [GitHub - Yelp Business Reviews Analytics](https://github.com/Navina-Murugadas/Yelp_Business_Review_Analysis)
 
 ---
 
-<div align="center">
-  <i>🔎 Translating complex risk signals into measurable insights</i>
-</div>
+## 🎓 Education
+
+**B.E., Electronics & Communication Engineering**  
+College of Engineering, Guindy (Anna University)  
+✔ First Class  
+
+---
+
+## 📜 Certifications
+
+- Google AI Professional Certificate (2026)  
+- AWS Cloud Practitioner Essentials (2025)  
+- Google Data Analytics Professional Certificate (2023)  
+- CAML (In Progress)  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/navina-m/)
+- 💻 [GitHub](https://github.com/Navina-Murugadas)
+- 🪪 [Portfolio](https://navina-murugadas.github.io/Portfolio/)
+- 📊 [SQL Portfolio](https://github.com/Navina-Murugadas/SQL_Analytics)
+
+
+---
+
+## ⚡ What I Bring
+
+✔ Strong investigative mindset  
+✔ Data-driven fraud detection expertise  
+✔ High accuracy + performance under pressure  
+✔ Ability to translate data into actionable risk insights  
+
+---
+
+⭐ *Open to roles in Fraud Analytics, AML, Risk, Trust & Safety, and Data Analytics*
