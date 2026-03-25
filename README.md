@@ -68,7 +68,7 @@ I combine **analytical thinking + data tools (SQL, Power BI, Python)** to uncove
 - Reviewed **110,000+ brand protection & IP compliance cases**  
 - Identified fraud trends using anomaly detection & pattern analysis  
 - Delivered audit-ready risk documentation for compliance reviews  
-- Performed SQL & Excel-based RCA to uncover systemic abuse  
+- Performed **SQL & Excel-based RCA** to uncover systemic abuse  
 - Achieved up to **152.5% productivity**  
 - 🏆 *Awarded Super Star Trainee*
 
