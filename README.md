@@ -26,7 +26,7 @@ Risk & Fraud Analytics professional with 2+ years of experience at Amazon specia
 - Data-driven decision making  
 
 ✔ Reviewed **150,000+ high-risk cases**  
-✔ Maintained **~100% decision accuracy**  
+✔ Maintained **99+% decision accuracy**  
 ✔ Resolved **43,800+ claims with 99.6% accuracy**
 
 I combine **analytical thinking + data tools (SQL, Power BI, Python)** to uncover fraud patterns, generate insights, and strengthen risk systems.
