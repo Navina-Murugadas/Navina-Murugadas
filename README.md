@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Navina</h1>
 
-<h4>💼 <b>Risk & Fraud Analytics | Trust & Safety | Data Analytics</b></h4>
+<h4>💼 <b>Risk & Fraud Analytics | Trust & Safety | Data Analytics | CAML</b></h4>
 
 <h4><i>Turning investigation signals into structured risk insights & data-driven decisions</i></h4>
 
